@@ -3,7 +3,8 @@
 ### What is a binary tree?
 In computer science, a **binary tree** is a tree data structure in which each node has at most two children, referred to as the left child and the right child. That is, it is a [k-ary tree](https://en.wikipedia.org/wiki/M-ary_tree) with k = 2. A recursive definition using set theory is that a binary tree is a tuple (L, S, R), where L and R are binary trees or the empty set and S is a singleton set containing the root.
 
-![binary tree](https://en.wikipedia.org/wiki/Binary_tree#/media/File:Binary_tree_v2.svg)
+![binary tree](https://github.com/Smambo/binary_trees/assets/113464914/316570fb-55ad-46a2-914f-7f0b65101caa)
+
 
 ### Learning objectives:
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
